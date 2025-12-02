@@ -8,6 +8,12 @@ I am detail oriented, analytical, and highly collaborative, ensuring data driven
 
 Welcome to my portfolio, where I showcase my projects, achievements, and passion for data analytics
 
+ ## Core Competencies
+- Data Analysis: Analyze complex datasets (within any industry) to identify trends and patterns.
+- Data Visualization: Create insightful visualizations using Tableau, Excel, and Power BI.
+- Business Intelligence: Develop data-driven strategies and build dashboards for business decisions.
+- SQL & Database Management: Query and manage data across various database systems with SQL.
+
 
 
 # 💻 Tech Stack:
