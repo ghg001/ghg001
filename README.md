@@ -22,6 +22,7 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 
 ## featured project
 
+<a href="https://mavenshowcase.com/project/54237" rel="nofollow"><img width="1422" height="750" alt="pm portfolio jpg" src="https://github.com/user-attachments/assets/dfd72de5-2ac8-4faf-8528-36d970bb4650" />
 
 
 
