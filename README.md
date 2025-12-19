@@ -25,6 +25,9 @@ Welcome to my portfolio, where I showcase my projects, achievements, and passion
 <a href="https://mavenshowcase.com/project/54237" rel="nofollow"><img width="1422" height="750" alt="pm portfolio jpg" src="https://github.com/user-attachments/assets/dfd72de5-2ac8-4faf-8528-36d970bb4650" />
 <a href="https://mavenshowcase.com/project/54247" rel="nofollow">
 <img width="1920" height="1020" alt="ecommerce" src="https://github.com/user-attachments/assets/d7ac54e8-52aa-4864-8a09-3b5917d59e12" />
+<a href="https://mavenshowcase.com/project/54431" rel="nofollow"><img width="1920" height="1020" alt="2" src="https://github.com/user-attachments/assets/e41dc10e-7a68-4dbf-bd5c-e75ec9226de5" />
+
+
 
 
 
